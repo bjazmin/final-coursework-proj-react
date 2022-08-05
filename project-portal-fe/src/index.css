@@ -1,0 +1,31 @@
+body {
+  position: relative;
+  min-height: 100%;
+  margin: 0;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.nav-link {
+  color: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.vertical-align {
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.murdoch-color {
+  background-color: #e12744;
+}
+
+.background {
+  height: 100%;
+  background-color: #f8f6f4;
+}
